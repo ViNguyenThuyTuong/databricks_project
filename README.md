@@ -250,11 +250,3 @@ After working through this project, you will understand:
 - [ ] CI/CD pipeline setup
 - [ ] Infrastructure as Code (Terraform)
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests for improvements or additional examples.
-
-## License
-
-This project is for educational purposes. Feel free to use and modify as needed.
-
